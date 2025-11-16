@@ -16,3 +16,9 @@ A simple and interactive To-Do List Web Application built with HTML, CSS, and Ja
 - **HTML**
 - **CSS**
 - **JavaScript**
+
+
+## 📸 Screenshots
+<img width="45%" alt="image" src="https://github.com/user-attachments/assets/11ffb100-5496-4be3-9c31-488618a38ef0" />
+<img width="45%" alt="image" src="https://github.com/user-attachments/assets/f3828a25-1104-49f7-a01c-3804087bdf60" />
+
